@@ -56,3 +56,14 @@ Languages and Technologies: HTML, CSS, AngularJS, jQuery, Bootstrap, Gulp, Nginx
 
 ## **CODE EXAMPLES**
 [Volt for drive](https://voltfordrive.com/)<br>
+
+## **EDUCATION**
+
+**June 2017 - November 2018 Belarusian State Academy of Telecommunications**
+Master's degree
+
+**February 2016  – May 2016 Educational Center of Belhard**
+Development of Web-sites using HTML5 and CSS.
+
+**October 2016 – January 2017 Educational Center of Belhard**
+Development of Web-sites using HTML and JavaScript.
