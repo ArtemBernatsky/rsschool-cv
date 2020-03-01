@@ -11,17 +11,17 @@
 
 ## **SKILLS**
 `Programming Languages`:
-- Node.js, JavaScript, HTML/CSS
+- Node.js, JavaScript, HTML/CSS </br>
 `Operating Systems`:
-- Windows, macOS, Linux
+- Windows, macOS, Linux </bt>
 `Databases`:
 - MongoDB
 - PostgreSQL
-- Firebase
+- Firebase </bt>
 `Tools and Technologies`:
 - React.js, Redux, Redux-saga, Styled-components
 - AngularJS/Angular
 - Sass, Less
-- NodeJS, Express, NestJS, Koa
+- NodeJS, Express, NestJS, Koa </br>
 `Other`:
 - Version control system: Git; Experience with Webpack, Gulp
