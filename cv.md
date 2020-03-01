@@ -59,11 +59,11 @@ Languages and Technologies: HTML, CSS, AngularJS, jQuery, Bootstrap, Gulp, Nginx
 
 ## **EDUCATION**
 
-**June 2017 - November 2018 Belarusian State Academy of Telecommunications**
+**June 2017 - November 2018 Belarusian State Academy of Telecommunications**</br>
 Master's degree
 
-**February 2016  – May 2016 Educational Center of Belhard**
+**February 2016  – May 2016 Educational Center of Belhard**</br>
 Development of Web-sites using HTML5 and CSS.
 
-**October 2016 – January 2017 Educational Center of Belhard**
+**October 2016 – January 2017 Educational Center of Belhard**</br>
 Development of Web-sites using HTML and JavaScript.
