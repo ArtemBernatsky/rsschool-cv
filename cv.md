@@ -1,5 +1,7 @@
 # Artem Bernatsky - Web developer
 
+Over 3 years of extensive experience in IT industry in outsourcing software development services using the HTML, CSS, Javascript technology. Experienced in creating React, Angular, NodeJS applications, valid, semantic HTML and CSS. 
+
 >Phone : +375293991771 </br>
 >Email: bernatskyav@gmail.com </br>
 >Linkedin: https://www.linkedin.com/in/artem-bernacky-44456b149/ </br>
