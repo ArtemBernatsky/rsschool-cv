@@ -10,18 +10,18 @@
 - Hard worker
 
 ## **SKILLS**
-`Programming Languages`:
+### Programming Languages
 - Node.js, JavaScript, HTML/CSS </br>
-`Operating Systems`:
-- Windows, macOS, Linux </bt>
-`Databases`:
+### Operating Systems
+- Windows, macOS, Linux
+### Databases
 - MongoDB
 - PostgreSQL
-- Firebase </bt>
-`Tools and Technologies`:
+- Firebase
+### Tools and Technologies
 - React.js, Redux, Redux-saga, Styled-components
 - AngularJS/Angular
 - Sass, Less
-- NodeJS, Express, NestJS, Koa </br>
-`Other`:
+- NodeJS, Express, NestJS, Koa
+### Other
 - Version control system: Git; Experience with Webpack, Gulp
