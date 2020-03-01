@@ -24,7 +24,7 @@
 - Sass, Less
 - NodeJS, Express, NestJS, Koa
 ### Other
-- Version control system: Git; Experience with Webpack, Gulp
+- Git, VWebpack, Gulp, nginx
 
 ## **PROFESSIONAL EXPERIENCE**
 **ISsoft – Minsk, Belarus**</br>
