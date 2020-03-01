@@ -67,3 +67,6 @@ Development of Web-sites using HTML5 and CSS.
 
 **October 2016 – January 2017 Educational Center of Belhard**</br>
 Development of Web-sites using HTML and JavaScript.
+
+### **ENGLISH**
+Intermediate
