@@ -8,3 +8,20 @@
 - Fast learner
 - Reliable, Responsible
 - Hard worker
+
+## **SKILLS**
+`Programming Languages`:
+- Node.js, JavaScript, HTML/CSS
+`Operating Systems`:
+- Windows, macOS, Linux
+`Databases`:
+- MongoDB
+- PostgreSQL
+- Firebase
+`Tools and Technologies`:
+- React.js, Redux, Redux-saga, Styled-components
+- AngularJS/Angular
+- Sass, Less
+- NodeJS, Express, NestJS, Koa
+`Other`:
+- Version control system: Git; Experience with Webpack, Gulp
