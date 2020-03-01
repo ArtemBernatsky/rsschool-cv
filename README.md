@@ -1,0 +1,1 @@
+https://ArtemBernatsky.github.io/rsschool-cv/cv
