@@ -26,17 +26,17 @@ Over 3 years of extensive experience in IT industry in outsourcing software deve
 - Sass, Less
 - NodeJS, Express, NestJS, Koa
 ### Other
-- Git, VWebpack, Gulp, nginx
+- Git, Webpack, Gulp, nginx
 
 ## **PROFESSIONAL EXPERIENCE**
 **ISsoft – Minsk, Belarus**<br>
-**Jule 2019 – Now**<br>
+**July 2019 – Now**<br>
 **Front-end developer**<br>
 
 Tools, Environment, Languages and Technologies: ReactJS, Redux, Redux-Thunk, Redux-Saga, MongoDB, Express.js, Styled Components, JS, ES6, Webpack.
 
 **Belhard – Minsk, Belarus**<br>
-**April 2017 - Jule 2019**<br>
+**April 2017 - July 2019**<br>
 **Front-end developer**<br>
 
 ### Project: EV Charging stations facility management
